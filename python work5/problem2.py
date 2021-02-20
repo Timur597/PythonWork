@@ -1,2 +1,2 @@
-tuple=('archi','dev','byden')
-print(tuple[0:4])
+tupl=('archi','dev','byden')
+print(tupl[0:4])

@@ -7,15 +7,17 @@ while i<10:
 	print(num)'''
 	
 
-z = set()
+'''z = set()
 i = 0
 while i < 10:
     i += 1
     x = input('введите 10 чисел: ',)
     z.add(x)
-print(z)
+print(z)'''
+z =set()
+for x in range (1,11):
+     x = int(input('введите 10 чисел: '))
+     z.add(123)
+ print(z)
 
-for x in range (1,10):
-    x = int(input('введите 10 чисел: '))
-    z.add(x)
-print(z)
+

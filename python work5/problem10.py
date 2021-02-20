@@ -7,3 +7,5 @@ names.pop(9)
 names.pop(10)
 print(names)
 
+
+
